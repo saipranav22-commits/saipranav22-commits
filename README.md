@@ -147,7 +147,6 @@ My primary engineering focus is **Java, Spring Boot, REST API design, authentica
 <table>
   <tr><td><strong>550+ problems</strong></td><td>LeetCode practice across data structures, algorithms, and common problem-solving patterns.</td></tr>
   <tr><td><strong>Top 70 selection</strong></td><td>Selected among pre-final-year students for an intensive 30-day DSA training program.</td></tr>
-  <tr><td><strong>Engineering internship</strong></td><td>Completed a 15-day IoT and robotics internship at Praya Labs, with hands-on project work.</td></tr>
   <tr><td><strong>NPTEL</strong></td><td>Completed multiple NPTEL certification programmes.</td></tr>
   <tr><td><strong>Teamwork beyond code</strong></td><td>Competed in national-level volleyball during school, building discipline and team-first habits.</td></tr>
 </table>
