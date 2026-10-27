@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Build with intent. Leave the code better.">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101B35"/><stop offset="1" stop-color="#080D1B"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#67E8F9"/></linearGradient></defs>
+  <rect width="1200" height="130" rx="18" fill="url(#bg)" stroke="#5B7AA8" stroke-opacity="0.28"/>
+  <path d="M0 100 C240 78 370 120 600 95 S980 70 1200 94" fill="none" stroke="#60A5FA" stroke-opacity="0.22"/>
+  <rect x="32" y="32" width="4" height="62" rx="2" fill="url(#a)"/>
+  <text x="58" y="61" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="750" fill="#F3F7FF">Build with intent.</text>
+  <text x="58" y="87" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#A8B8D4">Leave the code clearer, safer, and more useful than you found it.</text>
+  <g transform="translate(946 45)"><rect width="215" height="40" rx="20" fill="#132642" stroke="#60A5FA" stroke-opacity="0.42"/><circle cx="22" cy="20" r="4" fill="#67E8F9"/><text x="38" y="24" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#D9E8FF">OPEN TO OPPORTUNITIES</text></g>
+</svg>
